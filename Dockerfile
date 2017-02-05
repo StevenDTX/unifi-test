@@ -1,5 +1,5 @@
 FROM phusion/baseimage:latest
-MAINTAINER dd
+MAINTAINER ddd
 # Set correct environment variables
 ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
